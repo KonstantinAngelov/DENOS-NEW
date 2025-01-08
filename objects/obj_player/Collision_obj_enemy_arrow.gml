@@ -7,6 +7,7 @@ if(!invulnerable){
 	playerKnockback();
 	with(other){
 		dealDamage();
+		damageDisplay(damage);
 	}
 }
 

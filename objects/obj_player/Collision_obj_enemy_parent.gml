@@ -2,7 +2,8 @@ if(!invulnerable){
 	playerKnockback();
 	with(other){
 		dealCollideDamage();
-		dealDamage();
+		//dealDamage();
+		damageDisplay(collide_damage);
 	}
 }
 

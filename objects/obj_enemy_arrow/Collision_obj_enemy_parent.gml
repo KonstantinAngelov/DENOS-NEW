@@ -4,3 +4,4 @@ if(!isParried)
 hitEffect();
 dealDamage();
 instance_destroy();
+damageDisplay(damage);

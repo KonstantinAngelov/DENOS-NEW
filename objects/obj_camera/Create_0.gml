@@ -1,3 +1,5 @@
+persistent = true;
+
 cam_width = 2250;
 cam_height = 1500;
 
